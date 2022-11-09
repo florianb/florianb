@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 - i am Florian (he/him)
+
+You can also find me on..
+
+- <a rel="me" href="https://infosec.exchange/@floriann">Mastodon</a>
+- [Stackoverflow](https://stackoverflow.com/users/432696/florian-neumann)
 
 <!--
 **florianb/florianb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
